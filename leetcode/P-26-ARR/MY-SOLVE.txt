@@ -1,1 +1,5 @@
-To solve this problem i had created a array in which i had store some values which some of that have duplicate so to solve i had created a loop which only allow the value that are not equal to the previous one and store that value into the new array and print.
+To solve this problem i had created a array 
+in which i had store some values
+which some of that have duplicate so to solve i had created a loop
+ which only allow the value that are not equal to the previous one and store that value into the new array
+and print.
